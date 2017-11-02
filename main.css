@@ -1,0 +1,47 @@
+
+    
+    .intro {color:purple;
+    background-color:yellow;
+      font-family:courier;
+      text-align:left;
+      width:75%;
+     
+    }
+    
+    div {
+      color:purple;
+      }
+    
+    .header{
+      color:purple;
+      font-size:40px;
+      font-family:verdana;
+    }
+    
+    body{
+      background-color:orange;
+      text-align:center
+    }
+    
+    
+    .content {
+      text-align:center;
+        background-color:white;
+      width:100%;
+      font-size:12px;
+    }
+    
+    .image {
+      width:30%;
+      border:2px dotted
+    }
+    
+    .paragragh1{
+      background-color:red;
+      width:50%;
+      font-family:courier;
+      
+    }
+
+
+    
