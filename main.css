@@ -1,47 +1,68 @@
+body {
+  color:maroon;
+  background-color:aqua;
+  background-image: url("http://bulldogs.video/texture.jpg");
+}
 
-    
-    .intro {color:purple;
-    background-color:yellow;
-      font-family:courier;
-      text-align:left;
-      width:75%;
-     
-    }
-    
-    div {
-      color:purple;
-      }
-    
-    .header{
-      color:purple;
-      font-size:40px;
-      font-family:verdana;
-    }
-    
-    body{
-      background-color:orange;
-      text-align:center
-    }
-    
-    
-    .content {
-      text-align:center;
-        background-color:white;
-      width:100%;
-      font-size:12px;
-    }
-    
-    .image {
-      width:30%;
-      border:2px dotted
-    }
-    
-    .paragragh1{
-      background-color:red;
-      width:50%;
-      font-family:courier;
-      
-    }
+.infobox {
+  width:350px;
+  height:300x;
+  padding:10px;
+  margin-top:10px;  
+  margin-bottom:10px;
+  margin-right:auto;
+  margin-left:auto;
+  
+}
 
 
-    
+a:hover {
+color: red;
+text-decoration: none; 
+}
+
+a:visited {
+color:green;
+}
+
+a:active {
+color: orange;
+}
+
+a:link {
+color:blue;
+}
+
+<!--this is costamization for links and this is also
+a comment tag that you can only see in code-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
